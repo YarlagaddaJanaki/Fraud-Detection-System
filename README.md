@@ -41,6 +41,6 @@ The dataset used in this project can be downloaded from the following link:
 
 📈 Results
 
-- Accuracy: 94%
+- Accuracy: 70%
 - High precision & recall on fraudulent transactions
 - Robust performance on imbalanced data
